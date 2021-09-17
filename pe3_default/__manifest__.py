@@ -143,7 +143,6 @@
 		'https://github.com/ingadhoc/multi-store ingadhoc-multi-store',
 		'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
 		'https://github.com/ingadhoc/odoo-argentina-ce ingadhoc-odoo-argentina-ce',
-		'https://github.com/ingadhoc/odoo-legal ingadhoc-odoo-legal',
 		'https://github.com/ingadhoc/odoo-public-administration ingadhoc-odoo-public-administration',
 		'https://github.com/ingadhoc/partner ingadhoc-partner',
 		'https://github.com/ingadhoc/product ingadhoc-product',
