@@ -114,7 +114,6 @@
 		'https://github.com/OCA/social oca-social',
 		'https://github.com/OCA/stock-logistics-barcode oca-stock-logistics-barcode',
 		'https://github.com/OCA/stock-logistics-reporting oca-stock-logistics-reporting',
-		'https://github.com/OCA/stock-logistics-reporting oca-stock-logistics-reporting',
 		'https://github.com/OCA/stock-logistics-transport oca-stock-logistics-transport',
 		'https://github.com/OCA/stock-logistics-warehouse oca-stock-logistics-warehouse',
 		'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
