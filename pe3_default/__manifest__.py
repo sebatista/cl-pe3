@@ -44,8 +44,8 @@
         # Filoquin
         #'https://github.com/filoquin/odoo-argentina-ce.git -b 13.0_qr',
         
-        # OCA
-        'https://github.com/OCA/account-analytic oca-account-analytic',
+        # OCA 
+		'https://github.com/OCA/account-analytic oca-account-analytic',
         'https://github.com/OCA/account-closing oca-account-closing',
         'https://github.com/OCA/account-financial-reporting oca-account-financial-reporting',
         'https://github.com/OCA/account-financial-tools oca-account-financial-tools',
@@ -163,7 +163,12 @@
     ],
     
     'depends': [
-        'standard_depends_ce'
+        'standard_depends_ce',
+		'sale_management',
+		'purchase',
+		'stock',
+		'website_sale',
+		'l10n_ar_ux',
         ],
     'installable': True,
 
